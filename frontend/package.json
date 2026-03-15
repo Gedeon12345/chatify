@@ -14,6 +14,7 @@
     "date-fns": "^4.1.0",
     "emoji-picker-react": "^4.18.0",
     "framer-motion": "^12.36.0",
+    "gedeon-app": "file:..",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-hot-toast": "^2.6.0",
